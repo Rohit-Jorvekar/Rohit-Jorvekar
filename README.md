@@ -1,5 +1,5 @@
 ### Hi there I'm Rohit Jorvekar👋.
-#### Native Android Application Deveper.
+#### Native Android Application Developer.
 #### Programming Enthusiastic.
 
 - 🔭 I’m currently working on peronal Projects
