@@ -2,7 +2,7 @@
 #### Native Android Application Developer.
 #### Programming Enthusiastic.
 
-- 🔭 I’m currently working on peronal Projects
+- 🔭 I’m currently working on personal Projects
 - 🌱 I’m currently learning Android Development
 - 👯 I’m looking to collaborate on open source android application project
 - 🤔 I’m looking for help with android architecture
